@@ -1,0 +1,7 @@
+# .prettierrc書き方参考
+# https://qiita.com/takeshisakuma/items/bbb2cd2f1c65de70e363
+# コメントかけるのでyamlファイルで記載
+
+# 文末セミコロンはなし
+semi: false
+singleQuote: true
